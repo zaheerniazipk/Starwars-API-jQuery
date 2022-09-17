@@ -1,0 +1,35 @@
+/*******************
+        H1          
+********************/
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+    margin-top: 80px;
+}
+
+
+/*******************
+        Image          
+********************/
+
+img {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: 20px auto;
+    box-shadow: 10px 10px 5px #000;
+}
+
+
+/*******************
+        Button         
+********************/
+button#btn {
+    display: block;
+    margin:50px auto;
+    padding: 10px 25px;
+    color: green;
+    background-color: yellow;
+    border-radius: 8px;
+}
